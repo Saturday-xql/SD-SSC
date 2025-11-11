@@ -21,8 +21,8 @@ This repository contains the source code for the paper Semantic Decoupling based
 
 |    Dataset    |                   Link                   |
 | :----------: | :--------------------------------------: |
-|NYU|[Google Drive]()|
-|NYUCAD|[Google Drive]()|
+|NYU|[Google Drive](https://drive.google.com/drive/folders/1uYdPG6fpdXqjARoHTufYbCTuUKrX_1ta?usp=sharing)|
+|NYUCAD|[Google Drive](https://drive.google.com/drive/folders/1whNr5zx6Mb4h9oqeBnkLwqQHUG_nf_cJ?usp=sharing)|
 ## Usage
 
 ### Installation
@@ -49,8 +49,8 @@ PyYAML
 ```
 You can install them by running  `pip install -r requirements.txt` .
 ### Datasets
-<!-- We use the NYU and NYUCAD datasets in our experiments. The NYUD depth images and 2D labels can be downloaded from http://horatio.cs.nyu.edu/mit/silberman/nyu_depth_v2/nyu_depth_v2_labeled.mat. 3D Ground truth and NYUCAD depth map are in https://github.com/shurans/sscnet. -->
-We use the NYU and NYUCAD datasets in our experiments. You can download the datasets from [Google Drive]()
+
+We use the NYU and NYUCAD datasets in our experiments. 
 After preparing, the `SSC_Dataset` folder should look like this:
 
 ````
