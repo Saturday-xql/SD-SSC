@@ -77,5 +77,3 @@ Edit the `eval.py`, then run
 ```
 python eval.py
 ```
-## Acknowledgement
-This code is based on previous work [SPAwN](https://arxiv.org/abs/2111.13309).
